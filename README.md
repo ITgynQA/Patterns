@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lkl319yxhvbf4o5n?svg=true)](https://ci.appveyor.com/project/ITgynQA/patterns-d0n7h)
+[![Build status](https://ci.appveyor.com/api/projects/status/sw0umk0gr6w0p4p1?svg=true)](https://ci.appveyor.com/project/ITgynQA/patternsandallure)
